@@ -11,3 +11,8 @@ body {
     color: aliceblue;
     font-size: medium;
 }
+
+footer {
+    background-color: aliceblue;
+    color: black;
+}
