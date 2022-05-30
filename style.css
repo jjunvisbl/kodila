@@ -3,16 +3,19 @@ body {
 }
 
 .title h2 {
-    color: black
+    color: black;
+    margin-top: 50px;
 }
 
 .poem {
     background-color: black;
     color: aliceblue;
     font-size: medium;
+    margin: 50px;
 }
 
 footer {
     background-color: aliceblue;
     color: black;
+    margin: auto;
 }
